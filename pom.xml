@@ -15,8 +15,8 @@
   <name>untitled1</name>
   <url>http://maven.apache.org</url>
   <scm>
-    <connection>scm:git:https://github.com/anasstaisshaa/apache-maven-starter.git</connection>
-    <developerConnection>scm:git:https://github.com/anasstaisshaa/apache-maven-starter.git</developerConnection>
+    <connection>scm:git:https://github.com/anasstaisshaa/maven.git</connection>
+    <developerConnection>scm:git:https://github.com/anasstaisshaa/maven.git</developerConnection>
   </scm>
 
   <properties>
