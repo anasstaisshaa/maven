@@ -3,7 +3,7 @@
 
   <groupId>org.example</groupId>
   <artifactId>untitled1</artifactId>
-  <version>1.0-SNAPSHOT1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <modules>
     <module>database</module>
     <module>service</module>
@@ -16,7 +16,7 @@
   <scm>
     <connection>scm:git:https://github.com/anasstaisshaa/maven.git</connection>
     <developerConnection>scm:git:https://github.com/anasstaisshaa/maven.git</developerConnection>
-    <tag>untitled1-1.0-SNAPSHOT1.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <properties>
